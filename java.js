@@ -22,7 +22,7 @@ let FavoriteColor = prompt("What's your favorite color?");
 
 
 // Get user input for a number
-let numberInput = parseFloat(prompt("Enter a number:"));
+let numberInput =prompt("Enter a number:");
 
 // Check if the number is positive, negative, or zero
 if (numberInput > 0) {

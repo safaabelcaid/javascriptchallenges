@@ -5,7 +5,7 @@ let favoriteColors = ['blue', 'green', 'purple'];
 
 
 
-// Declare and print a string with single and double quotes
+// Declare and print a string with s ingle and double quotes
 let QuotesString = '  I\'m using  "single" and \'double\' quotes.    ';
 console.log(QuotesString);
 
